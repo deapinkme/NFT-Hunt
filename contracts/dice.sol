@@ -1,1 +1,1 @@
-// create smart contract using Harmony 
+// create smart contract w/ Harmony for dice with Verifiable Random Function (VRF)

@@ -1,5 +1,3 @@
-// this is easier doen with initialFunds because they will be inheriting everthing equally
-
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.22 <0.9.0;
 
